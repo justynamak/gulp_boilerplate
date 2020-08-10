@@ -1,7 +1,3 @@
-body {
+@import "../../node_modules/bootstrap/scss/bootstrap";
 
-    p {
-        color: red;
-        transform: translateX(50%);
-    }
-}
+@import "./components/general";
